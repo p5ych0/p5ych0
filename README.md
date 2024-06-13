@@ -54,7 +54,7 @@ I'm a seasoned software developer with over 20 years of experience across variou
 - **Languages:** Fluent in English, Russian, Ukrainian
 
 ## 📊 GitHub Stats
-
+<!--
 ![Kostiantyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=p5ych0&show_icons=true&theme=radical)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p5ych0&layout=compact&theme=radical)
